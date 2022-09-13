@@ -25,7 +25,6 @@ This file can be viewed in a browser as:
 Unsupervised Learning
 ---
 * author: **Hynek Zemanec**
-* email:  [a12010957@unet.univie.ac.at](a12010957@unet.univie.ac.at)
 * year: **SS 2021**
 
 ---
